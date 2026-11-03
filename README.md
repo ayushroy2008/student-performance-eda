@@ -172,7 +172,7 @@ All generated graphs are available in the `plots/` directory.
 ```text
 student-performance-eda/
 │
-├── student_performance_eda.py
+├── student-performance-eda.py
 ├── README.md
 ├── requirements.txt
 │
@@ -238,7 +238,7 @@ The script uses a semicolon (`;`) as the CSV delimiter.
 ### 5. Execute the Python script
 
 ```bash
-python student_performance_eda.py
+python student-performance-eda.py
 ```
 
 The script performs the analysis and generates the corresponding visualisations.
